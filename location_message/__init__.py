@@ -4,6 +4,7 @@ from mcdreforged.api.rtext import RText, RTextList, RColor, RAction, RTextBase
 
 from location_message.dimension import get_dimension, Dimension, LegacyDimension
 from location_message.position import Position
+from location_message.location import Location
 
 
 def coordinate_text(x: float, y: float, z: float, dimension: Dimension, click_to_teleport: bool = True) -> RTextBase:
