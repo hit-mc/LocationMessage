@@ -4,7 +4,7 @@ English | [中文](./README_zh.md)
 
 ## what is this?
 
-This is a library that converts `position` into an `RTextList` in MCDR. Provide a unified interface for all services that need to broadcast or query location.
+This is a library that converts `Location` into an `RTextList` in MCDR. Provide a unified interface for all services that need to broadcast or query location.
 
 ## interface prototype
 
