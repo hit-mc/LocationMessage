@@ -1,0 +1,17 @@
+{
+    "id": "here",
+    "version": "1.2.2",
+    "name": "Here",
+    "description": {
+        "en_us": "Query the location of other player",
+        "zh_cn": "查询其他文件的位置"
+    },
+    "author": [
+        "inclyc"
+    ],
+    "entrypoint": "here.entry",
+    "link": "https://github.com/hit-mc/Where",
+    "resources": [
+        "LICENSE"
+    ]
+}
