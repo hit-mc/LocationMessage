@@ -1,4 +1,3 @@
-import re
 from typing import Optional
 
 from mcdreforged.api.rtext import RText, RTextList, RColor, RAction, RTextBase
