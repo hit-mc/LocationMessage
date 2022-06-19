@@ -1,17 +1,13 @@
 {
-    "id": "here",
+    "id": "location_message",
     "version": "1.2.2",
-    "name": "Here",
+    "name": "LocationMessage",
     "description": {
-        "en_us": "Query the location of other player",
-        "zh_cn": "查询其他文件的位置"
+        "en_us": "Get RText location messages.",
+        "zh_cn": "获取富文本位置消息。"
     },
     "author": [
         "inclyc"
     ],
-    "entrypoint": "here.entry",
-    "link": "https://github.com/hit-mc/Where",
-    "resources": [
-        "LICENSE"
-    ]
+    "link": "https://github.com/hit-mc/location_message"
 }
